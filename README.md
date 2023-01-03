@@ -13,7 +13,6 @@ For request about voltage is OIDs used:
 
 Both OID from official Ekinops Docs for C600HC
 
-
 Script default using v2c version SNMP
 
 Script take 2 arguments in command line: get_chassis_temp.py <HOST_IP> <SNMP_COMMUNITY> 
