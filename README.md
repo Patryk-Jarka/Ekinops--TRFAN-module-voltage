@@ -22,5 +22,5 @@ get_trfanMesrvoltMeas12v2.py <HOST_IP> <SNMP_COMMUNITY>
 
 Where:
 
-<HOST_IP> - IP address your Ekinops device
+<HOST_IP> - IP address your Ekinops device,
 <SNMP_COMMUNITY> - SNMP Community for Ekinops device (default in v2c verion in use)
